@@ -1,0 +1,110 @@
+{
+   "checksum": "da03a15d515c759fc306edbd7f069096",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13279899099653235",
+            "date_last_used": "0",
+            "guid": "1b3a0334-3008-4008-a165-52b39127556b",
+            "id": "7",
+            "name": "HUMANIDADES MARTES-JUEVES 6-8 a.m. - Reunión en _General_-20211028_060132-Grabación de la reunión.mp4 - Todos los documentos",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tecnologicodeantioquia.sharepoint.com/sites/HUMANIDADESMARTES-JUEVES6-8a.m721/Documentos%20compartidos/Forms/AllItems.aspx?FolderCTID=0x01200061F35201B4BE1C49ADDF05B0513ECE42&id=%2Fsites%2FHUMANIDADESMARTES%2DJUEVES6%2D8a%2Em721%2FDocumentos%20compartidos%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20%5FGeneral%5F%2D20211028%5F060132%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&parent=%2Fsites%2FHUMANIDADESMARTES%2DJUEVES6%2D8a%2Em721%2FDocumentos%20compartidos%2FGeneral%2FRecordings"
+         }, {
+            "date_added": "13246240803901899",
+            "date_last_used": "0",
+            "guid": "1f3fc845-d0b9-4b48-8d65-30b9d1bbe44c",
+            "id": "8",
+            "name": "Neon Road : Play It At Friv®",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.friv.com/z/games/neonroad/game.html?Desktop-x-x-w-x-x-xx"
+         }, {
+            "date_added": "13283722407451363",
+            "date_last_used": "0",
+            "guid": "e7bb0ba5-426c-447a-93f7-ed614dbcd945",
+            "id": "9",
+            "name": "Área personal",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://virtual.tdea.edu.co/my/"
+         }, {
+            "date_added": "13283722452612995",
+            "date_last_used": "0",
+            "guid": "46266cb9-1bd8-4db9-b87a-baf8fbc492f5",
+            "id": "10",
+            "name": "(3) WhatsApp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13283722466501991",
+            "date_last_used": "0",
+            "guid": "7c69eb57-cf22-4ef1-ba3b-89923361e2e5",
+            "id": "11",
+            "name": "::: Comunica :::",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://campus.tdea.edu.co/extranet/enter.do?ida=7"
+         }, {
+            "date_added": "13283722488636727",
+            "date_last_used": "0",
+            "guid": "90aa6276-56a0-49e5-b297-6e19e7ad966f",
+            "id": "12",
+            "name": "Instagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13321073497646770",
+            "date_last_used": "0",
+            "guid": "e626d211-814f-4305-83d4-c09a1035599a",
+            "id": "13",
+            "name": "Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/"
+         } ],
+         "date_added": "13339643143791698",
+         "date_last_used": "0",
+         "date_modified": "13321073497646770",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13339643143791705",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13339643143791707",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCJ/Y+q+KAQAAKg4QABgBIAwoBjAAOABAABIAIAEqGDNXS0xlM2JzNzM0Q29ZV2x2eng5S3c9PaAGDBKoAQgNEqMBChw3dXN1OFk1R0ZyNkp2WG5XalBETjJQR3FGZlU9EiRlNjI2ZDIxMS04MTRmLTQzMDUtODNkNC1jMDlhMTAzNTU5OWEYACACKAIwvaXs/6oxOIugkenlMECq/Or/qjFKHE1WbDdQdnk5MXJXNVNDSDlWZFAvYWVXZGttND1aHyId/W85YjQ3RElqcVhrVHZwTnd6bmZsSCtFS3F6Yz1lEDD/5BKoAQgLEqMBChxQcXRaRGxDSUNldFFoMTFMYUJGaGYxKzM5bkU9EiQ3YzY5ZWI1Ny1jZjIyLTRlZjEtYmEzYi04OTkyMzM2MWUyZTUYACAAKAAw6qbA58YwON6t94jsL0DerfeI7C9KHEgyY2VrN3hmd3dFM090SmFHUWZnMWpQZzRmRT1aHyId91UwTk5CVVM0UHkwVTF5VzZ1bENsbDBZeXhUYz1lAAAAABKoAQgKEqMBChw0QlpDVkcvb2VJV0tYQWVyUUNnbmFORjFzTzQ9EiQ0NjI2NmNiOS0xYmQ4LTRkYjktYjg3YS1iYWY4ZmJjNDkyZjUYACACKAIwvKXs/6oxOL+t94jsL0Co/Or/qjFKHDBHL2JCbTdoZzRkL0psNGhIMkhCUlBoZXZvVT1aHyId7kd2UFB1M09XUlpmRTRXSWpFT2JUK3J3OXJyYz1l/dYgchKoAQgJEqMBChxIS1RwdjlmQzNmRjc5Z1Q4dDNuRUJxakJKYjA9EiRlN2JiMGJhNS00MjZjLTQ0N2EtOTNmNy1lZDYxNGRiY2Q5NDUYACACKAIwu6Xs/6oxOI2u94jsL0Cn/Or/qjFKHG16WUlMNnFkeGRRa2p2bmphdlNhcFROcDRVST1aHyId3WV2SVdyeTNSQjRGMmk4QlNPbGxHeHNQVXZzMD1lueMpGBKoAQgMEqMBChxYVnJUTjByRjBNTzFtNHltaGFEWnV2d0drSk09EiQ5MGFhNjI3Ni01NmEwLTQ5ZTUtYjI5Ny02ZTE5ZTdhZDk2NmYYACACKAIwuaXs/6oxOO6t94jsL0Cp/Or/qjFKHFFtcnpiK2k4RkNKVUh3NWpwZ0dxY3MwWFdvQT1aHyId+zRrS0E2bmRLd3FXN2trRjArK29XS1J5Sy8zdz1lsWuAkhKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ3YjA2ZjNiMy0wNzUxLTVjNTQtOGE2Ny1jNDlmNzRjZDZjMzYYACAAKAAw1IqI1rEwOMGn94jsL0DBp/eI7C9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCAgSowEKHHhPTnl2SXAyenEyaGNQa1I1ek0zWnhUYXdxYz0SJDFmM2ZjODQ1LWQwYjktNGI0OC04ZDY1LTMwYjlkMWJiZTQ0YxgAIAIoAjC6pez/qjE4oK33iOwvQKb86v+qMUocVnF6bDQwSlNzdXpXRXdZMmdvUENHYkp3Q3pVPVofIh27cmsrcXFBYmhJNjZGd1Z6YU5BV3lvQkduVWhJPWWaSaN/EokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDkwYTgwMmU3LWE2ZDMtNTUwNS05MmYyLTg3ZWU1NTdkODFlOBgAIAAoADDUiojWsTA4zqj3iOwvQM6o94jsL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASpwEIBxKiAQocTmRWcVlaeEl2azdLS2tqbjBrZElyaml2U2M4PRIkMWIzYTAzMzQtMzAwOC00MDA4LWExNjUtNTJiMzkxMjc1NTZiGAAgAigCMLil7P+qMTimq/eI7C9Apvzq/6oxShx5dFNzWVh6TThndVpOQ2hhWFlLcTE0dXpPWm89Wh4iHHY4alMvRG55eDVKNVJVQmY3UHN3K0ZUQ0x6MD1lpxzSGRKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ3N2JkNTUzYi01ZDhkLTVkN2ItOTEwYy03OWRiYjJjN2I1ZGQYACAAKAAw1IqI1rEwOPCn94jsL0Dwp/eI7C9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
