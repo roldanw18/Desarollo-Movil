@@ -6,6 +6,6 @@ Wbeimar Roldan Ortiz
 Herramientas de uso:
 Visual Studio
 Git - Github
-Google para busqueda e informacion de widgets y estructuras.
+Google para busqueda e informacion de widgets y estructuras. Tambien me base un poco en ejemplos encontrados en internet. 
 DartPad
 Android Studio
